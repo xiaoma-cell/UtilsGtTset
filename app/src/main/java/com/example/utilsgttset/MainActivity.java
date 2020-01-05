@@ -10,7 +10,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //vedvdsn hihoinnnvsd 8
+        //vedvdsn hihoinnkbiibiibioinvsd 8
+        //bhioiohnnoo
         //.vfdvdvdbiinbbgugygvdvd 6
+
+
+
     }
 }
+
+
